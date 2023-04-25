@@ -14,4 +14,12 @@
 
 <img style="width: 400px" src="./public/output.gif" />
 
-#### Hit me up on Discord if you have any questions: `pratt#5772` ✌🏻
+### To run this project:
+
+```bash
+git clone <this-repo>
+yarn
+yarn dev
+```
+
+### Hit me up on Discord if you have any questions: `pratt#5772` ✌🏻
