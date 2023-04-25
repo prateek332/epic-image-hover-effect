@@ -12,7 +12,7 @@
 
 ## Output
 
-<img style="width: 400px" src="./public/output.gif" />
+<img style="width: 600px" src="./public/output.gif" />
 
 ### To run this project:
 
